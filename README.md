@@ -30,6 +30,7 @@ Git Linux BASH Script to Update ALL Projects Under Parent Directory for any Git 
 - Enable Configurations for different tags/branches other than just 'master'.
 - Create securely-stored credentials to pass from a file and source into script rather than have prompts.
 - Also remove prompts for commit changes and create one default and/or have it configurable via config file sourced into script?
+- Add Git Permissions Fix Script Also!
 
 -----------------------------------------------------------------------------------------------------------------------------
 
